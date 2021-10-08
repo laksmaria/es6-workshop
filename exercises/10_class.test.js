@@ -68,7 +68,7 @@ test('can use property setters and getters', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Classes&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Classes&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

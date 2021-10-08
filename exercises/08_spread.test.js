@@ -33,7 +33,7 @@ test(`should be able to merge properties from objects`, () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Spread&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Spread&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

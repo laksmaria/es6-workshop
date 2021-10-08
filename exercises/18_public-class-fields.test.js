@@ -35,7 +35,7 @@ test('public class fields help us avoid .bind-ing everything', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Public+Class+Fields&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Public+Class+Fields&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

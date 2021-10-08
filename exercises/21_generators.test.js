@@ -38,7 +38,7 @@ test(`can be iterated over`, () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Generators&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Generators&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

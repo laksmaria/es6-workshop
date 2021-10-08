@@ -40,7 +40,7 @@ test('can use expressions as property names', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Object+Literals&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Object+Literals&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
