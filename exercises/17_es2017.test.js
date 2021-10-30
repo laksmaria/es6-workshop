@@ -112,7 +112,7 @@ test('Trailing commas in function parameter lists and calls help us with git', (
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=ES2017&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=ES2017&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

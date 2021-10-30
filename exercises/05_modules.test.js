@@ -24,7 +24,7 @@ test('can import from my node_modules', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Modules&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Modules&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

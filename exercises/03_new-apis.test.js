@@ -80,7 +80,7 @@ test(`should be easy to copy properties from one object to another`, () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=New+APIS&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=New+APIS&em=smartlaksh@gmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
